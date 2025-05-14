@@ -1,4 +1,4 @@
-import { OfficesDataProps, PortfolioDataProps } from "@/types/index.js";
+import { OfficesDataProps, PortfolioDataProps } from "@/types";
 
 export const portfolioData: PortfolioDataProps[] = [
     {
